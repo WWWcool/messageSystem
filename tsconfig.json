@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": [ "dom", "es5", "es6", "es2015.promise" ],
+    "target": "es6",
+    "baseUrl": "./",
+    "outDir": "./temp/CompiledJs",
+    "paths": {
+      "*": [
+        "*"
+      ]
+    }
+  }
+}
